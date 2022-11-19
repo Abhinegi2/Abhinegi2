@@ -1,7 +1,7 @@
 # About Me
 - Hi, I’m @Abhinegi2
 - I’m interested in Web Development
-- I’m currently learning laravel,React.js,Node.js.
+- I’m currently learning laravel,React.js,Node.js,Strapi,AWS-s3.
 - <a href="https://www.linkedin.com/in/abhishek-negi-04111a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a>
 <!-- - How to reach me [LinkedIn](https://www.linkedin.com/in/abhishek-n-b9854113a/) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinegi2&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinegi2" /> </p>
@@ -9,9 +9,6 @@
 ### :computer: Work
 
 - [Employee Portal](https://github.com/ColoredCow/portal) - A hub-and-spoke platform for organization operations.
-
-
-[![Negi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhinegi2&theme=xcode)](https://git.io/Abhinegi2)  
 
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
