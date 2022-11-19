@@ -1,5 +1,5 @@
 # About Me
-- Hi, I’m @Abhinegi2
+- Hi, I’m Abhishek Negi.
 - I’m interested in Web Development
 - I’m currently learning laravel,React.js,Node.js,Strapi,AWS-s3.
 - <a href="https://www.linkedin.com/in/abhishek-negi-04111a1a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-n-b9854113a/" height="30" width="40" /></a>
