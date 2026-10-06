@@ -12,12 +12,18 @@ I work mostly across TypeScript, PHP, Python, and JavaScript. I like building sy
 
 ## What I work on
 
+- Case management and NGO-focused platforms with [Aam Digital](https://github.com/Aam-Digital/ndb-core)
+- Internal operations and collaboration tools with [ColoredCow](https://github.com/ColoredCow/portal)
+- MCP and AI workflow experiments, including [gchat-mcp-server](https://github.com/ColoredCow/gchat-mcp-server)
 - Full-stack web applications, APIs, and workflow automation
 
 ## Featured work
 
 | Project | What it does |
 | --- | --- |
+| [Aam Digital / ndb-core](https://github.com/Aam-Digital/ndb-core) | Case management web app for NGOs anywhere in the world |
+| [ColoredCow Portal](https://github.com/ColoredCow/portal) | Hub-and-spoke platform for operations, data, and teams |
+| [gchat-mcp-server](https://github.com/ColoredCow/gchat-mcp-server) | MCP server for Google Chat spaces, messages, and search |
 | [shipment-tracker-backend](https://github.com/Abhinegi2/shipment-tracker-backend) | Backend service for shipment tracking workflows |
 | [shipment-tracker-frontend](https://github.com/Abhinegi2/shipment-tracker-frontend) | Frontend interface for shipment tracking workflows |
 
