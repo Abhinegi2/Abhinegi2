@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a software developer from Tehri Garhwal, India. I build practical software for organizations, NGOs, and internal teams, with a focus on workflow systems, product engineering, and tools that make operations easier to run.
+I'm a software developer from Dehradun India. I build practical software for organizations, NGOs, and internal teams, with a focus on workflow systems, product engineering, and tools that make operations easier to run.
 
 I work mostly across TypeScript, PHP, Python, and JavaScript. I like building systems that are clear to use, easy to maintain, and grounded in the real workflow of the people using them.
 
